@@ -1,0 +1,6 @@
+name: PhoneGap OAuth
+markdown: redcarpet
+pygments: true
+
+source: ./source
+destination: ./www
